@@ -25,6 +25,7 @@
   },
   "files": [
     "inherits.js",
+    "inherits.node.js",
     "inherits_browser.js"
   ]
 }
